@@ -1,0 +1,5 @@
+{
+    "odoo_bin": "~/Documents/odoo/odoo_15/odoo/odoo-bin",
+    "odoo_conf": "~/Documents/odoo/odoo_15/odoo.conf",
+    "tmp_dir": "~/tmp_restore"
+}
