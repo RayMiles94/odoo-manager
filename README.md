@@ -9,7 +9,7 @@ Restore an Odoo backup zip (`dump.sql` + `filestore/`) from the command line, us
 Inside the same virtualenv you use for Odoo:
 
 ```bash
-pip install git+https://github.com/<your-user>/odoo-manager.git
+pip install git+https://github.com/RayMiles94/odoo-manager
 ```
 
 Odoo itself is not a pip dependency: the tool imports it from the folder of the `odoo-bin` you give.
